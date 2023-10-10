@@ -1,7 +1,7 @@
 Ola Eu sou Mateus Maziero 👋
 
 - 🔭 Estudando Análise e desenvolvimento de sistemas
-- 🌱 Aperfeiçoando em ReacteJS
+- 🌱 Aperfeiçoando em Reacte.JS
 - 🎮 Tempo livre sempre Jogando
 - 📫 Contate-me: mateusmaziero0205@gmail.com
 - ⚡ Sempre aprendendo novas linguagens
